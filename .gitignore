@@ -1,0 +1,21 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+media/
+static/
+.env
+
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+
